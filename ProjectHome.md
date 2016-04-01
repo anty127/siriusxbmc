@@ -1,0 +1,1 @@
+This script written in Python allows XBMC to access Sirius Satellite Radio internet streams. It currently only supports low bandwidth streams since that's all I have available to test.
